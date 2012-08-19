@@ -1,4 +1,4 @@
 R-Booklist
 ==========
 
-R Scripts to Graph booklist data
+A couple of R scripts to graph bits of the data from the booklist between Dan and myself.
